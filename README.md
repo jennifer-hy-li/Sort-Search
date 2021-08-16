@@ -4,7 +4,7 @@ File IO, selection sort, bubble sort, insertion sort, binary search. Read names 
 ## Setup
   * You will need to install a Java IDE
   * Clone this repository
-  * Open the CeasarCipher.java file and click run
+  * Open the SortSearchLiJennifer.java file and click run (you can change the name.txt file to a unique list of items)
   
 ## Screenshots
 ### Gameplay
